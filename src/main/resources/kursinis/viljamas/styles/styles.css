@@ -1,0 +1,44 @@
+.root-pane-style {
+    -fx-background-color: linear-gradient(to top, #4B0082, #9932CC);
+}
+
+.btn-custom {
+    -fx-border-color: #5e60ce;
+    -fx-background-radius: 7px;
+    -fx-border-radius: 5px;
+    -fx-background-color: #A020F0;
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+}
+
+.btn-custom:hover {
+    -fx-background-color: #9370DB;
+}
+
+.list-view {
+    -fx-background-color: #be96f5;
+}
+
+.text-field {
+    -fx-background-color: #E6E6FA;
+}
+
+.text-area {
+    -fx-background-color: #9370DB;
+}
+
+.tab {
+    -fx-background-color: #A020F0;
+    -fx-font-weight: bold;
+}
+
+.tab:hover {
+    -fx-background-color: #9370DB;
+}
+.tab:selected {
+    -fx-background-color: #9370DB;
+}
+
+.back {
+    -fx-background-color: #be96f5;
+}
